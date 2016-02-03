@@ -7,7 +7,7 @@ description: >
   This template installs a single-instance WordPress deployment using a local
   MySQL database to store the data.
   Forked from - 'https://github.com/openstack/heat-templates/blob/master/hot/F20/WordPress_Native.yaml'
-  Inserted lines - 73-76 and 86
+  Inserted lines - 73-76 and 85-86
 
 parameters:
 
